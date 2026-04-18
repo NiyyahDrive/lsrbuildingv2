@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "./out",
+  "installCommand": "npm install",
+  "env": {
+    "NODE_ENV": {
+      "description": "Node environment",
+      "default": "production"
+    }
+  }
+}
